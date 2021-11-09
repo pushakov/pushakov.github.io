@@ -55,6 +55,51 @@ select {
       transition-duration: 0.01ms !important;
       scroll-behavior: auto !important;
     }
-  }
+}
 
-  
+
+/* ---------------- */
+/* Utility classes  */
+/* ---------------- */
+
+.flex {
+    display: flex;
+    gap: var(--gap, 1rem);
+}
+
+.grid {
+    display: grid;
+    gap: var(--gap, 1rem);
+}
+
+.container {
+    padding-inline: 2em;
+    margin-inline: auto;
+    max-width: 90rem;
+}
+
+/* for screen readers only */
+.sr-only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap; /* added line */
+    border: 0;
+}
+
+
+/* tepmorary solutions */
+.data-row {    
+    padding: 3rem;
+    box-shadow: 0.5rem 0.5rem 0.5rem rgba(0, 0, 0, 0.3);
+}
+
+.data-section {
+    --gap: 0.3rem;    
+    padding: 2rem;
+    border-radius: 1rem;
+}

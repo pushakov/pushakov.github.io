@@ -1,0 +1,64 @@
+:root {
+    --main-color: rgb(255, 255, 255);
+    --main-bg-color: rgb(11, 12, 23);
+
+    --primary-color: rgb(208, 214, 249);
+    --primary-bg-color: rgb(80, 82, 80);
+
+    --secondary-color: rgb(70, 70, 70);
+    --secondary-bg-color: rgb(206, 206, 206);
+
+    --data-color: rgb(16, 14, 17);
+    --data-bg-color: rgb(172, 213, 226);
+
+}
+
+@media print {
+        
+    :root {
+        --main-color: black;
+        --main-bg-color: white;
+    
+        --primary-color: black;
+        --primary-bg-color: white;
+    
+        --secondary-color: black;
+        --secondary-bg-color: white;
+    
+        --data-color: black;
+        --data-bg-color: white;
+    
+    }
+}
+
+.clr-main {
+    color: var(--main-color);
+}
+
+.bg-main {
+    background-color: var(--main-bg-color);
+}
+
+.clr-primary {
+    color: var(--primary-color);
+}
+
+.bg-primary {
+    background-color: var(--primary-bg-color);
+}
+
+.clr-secondary {
+    color: var(--secondary-color);
+}
+
+.bg-secondary {
+    background-color: var(--secondary-bg-color);
+}
+
+.clr-data {
+    color: var(--data-color);
+}
+
+.bg-data {
+    background-color: var(--data-bg-color);
+}
