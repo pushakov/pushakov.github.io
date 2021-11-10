@@ -1,0 +1,101 @@
+{
+    "2016":{
+        "date_from":"2016",
+        "date_to":"now",
+        "job":"Executive director in “Grad Invest Real Estate”",        
+        "duties": {
+            "1" : "Manage team with more than 100 persons. ",
+            "2" : "Facility management and operation of more than 100 000 m2 of supermarkets, hotels, business centers and sport complexes in 7 towns of Ukraine. ",
+            "3" : "Budgeting, working with local authorities, supply chain management. Enterprise resource planning."
+        }
+    },
+    "2014":{
+        "date_from":"2014",
+        "date_to":"2016",
+        "job":"Head of tender department in “Grad Invest Real Estate”",
+        "duties": {
+            "1" : "Manage construction of two sport complexes. Each one has several gym zones, 3 swimming pools, 3 saunas, cycle studio, gas boiler room.",
+            "2" : "Team management, budgeting, contract management, supply management."
+        }
+    },
+    "2013":{
+        "date_from":"2013",
+        "date_to":"2014",
+        "job":"Project manager in “United Basketball Investments”",
+        "duties": {
+            "1" : "Manage project of construction of biggest basketball stadium in Ukraine for EuroBasket 2015.",
+            "2" : "Schedule management. Contracts management.",
+            "3" : "Supply chain management. Work with building companies, FIBA, government and local authorities."
+        }
+    },
+    "2010":{
+        "date_from":"2010",
+        "date_to":"2013",
+        "job":"Director in construction company “Budkom”",
+        "duties": {
+            "1" : "Management of construction company.",
+            "2" : "Supply chain management. Budgeting. Production management.",
+            "3" : "Work with customers. Work with local authority."
+        }
+    },
+    "2007":{
+        "date_from":"2007",
+        "date_to":"2010",
+        "job":"Manager of foreign economic relations in construction company “Step”",
+        "duties": {
+            "1" : "Supply chain management.",
+            "2" : "Work with foreign customers and partners.",
+            "3" : "Budgeting."
+        }
+    },
+    "2002":{
+        "date_from":"2002",
+        "date_to":"2007",
+        "job":"Director in amusement park of Ilyich iron and steel works company.",
+        "duties": {
+            "1" : "Build from scratch amusement park.",
+            "2" : "After construction ends, start working as park director.",
+            "3" : "Amusement park management. Budgeting. Supply chain management.",
+            "4" : "Customer service management. Safety management. ",
+            "5" : "Security management.",
+            "6" : "Retail trade management."
+        }
+    },
+    "2001":{
+        "date_from":"2001",
+        "date_to":"2002",
+        "job":"Operational director in woodworking factory",
+        "duties": {
+            "1" : "Manage the production of wooden windows and doors.",
+            "2" : "Woodworking factory maintenance.",
+            "3" : "Budgeting. Working with customers.",
+            "4" : "Supply chain management."
+        }
+    },
+    "2000":{
+        "date_from":"2000",
+        "date_to":"2001",
+        "job":"Ukraine military service",
+        "duties": {
+            "1" : "Work in air defense department as HQ dispatcher."         
+        }
+    },
+    "1999":{
+        "date_from":"1999",
+        "date_to":"2000",
+        "job":"Supply manager in construction company “Step”",
+        "duties": {
+            "1" : "Supply management. Contract management."         
+        }
+    },
+    "1995":{
+        "date_from":"1995",
+        "date_to":"1999",
+        "job":"Computer network administrator in construction company “Step”",
+        "duties": {
+            "1" : "Computer's network management",
+            "2" : "Hardware maintenance, software adaptation",
+            "3" : "Phone ATS maintenance."     
+        }
+    }
+}
